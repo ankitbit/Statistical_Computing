@@ -1,5 +1,9 @@
 ## Computing in R
 
+## Introduction to R: 
+###### Cheatsheet for beginning with Base R: https://www.rstudio.com/wp-content/uploads/2016/10/r-cheat-sheet-3.pdf
+###### Check!
+
 ## Using loops in R
 A tutorial on using loops in R: https://www.datacamp.com/community/tutorials/tutorial-on-loops-in-r
 
