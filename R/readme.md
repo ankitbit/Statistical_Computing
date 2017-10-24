@@ -17,5 +17,7 @@ a) Handling Data Frames (i.e. Data Wrangling) with the dplyr ( ) and tidyr ( ) p
 b) Tutorial on the R Apply Family: More specifically, the family is made up of the apply( ), lapply( ) , sapply( ), vapply( ), mapply( ), rapply( ), and tapply( ) functions- https://www.datacamp.com/community/tutorials/r-tutorial-apply-family
 
 
+## Some Essential Mathematics
+a) Matrix algebra in R :https://www.statmethods.net/advstats/matrix.html and some practice exercises for matrix algebra: https://www.math.uh.edu/~jmorgan/Math6397/day13/LinearAlgebraR-Handout.pdf
 
 
