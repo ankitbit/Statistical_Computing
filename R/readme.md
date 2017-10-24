@@ -14,7 +14,7 @@ A tutorial on using functions in R: https://www.datacamp.com/community/tutorials
 #### Data Wrangling
 a) Handling Data Frames (i.e. Data Wrangling) with the dplyr ( ) and tidyr ( ) package: https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf     | Special reference to handling "date" and "time" variables in R: http://biostat.mc.vanderbilt.edu/wiki/pub/Main/ColeBeck/datestimes.pdf| 
 
-b) Tutorial on the R Apply Family: More specifically, the family is made up of the apply( ), lapply( ) , sapply( ), vapply( ), mapply( ), rapply( ), and tapply( ) functions- https://www.datacamp.com/community/tutorials/r-tutorial-apply-family
+b) Tutorial on the R Apply Family:More specifically, the family is made up of the apply( ), lapply( ) , sapply( ), vapply( ), mapply( ), rapply( ), and tapply( ) functions- https://www.datacamp.com/community/tutorials/r-tutorial-apply-family
 
 
 ## Some Essential Mathematics
