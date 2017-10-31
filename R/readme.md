@@ -6,6 +6,9 @@
 CRAN-Documents for learning R:https://cran.r-project.org/other-docs.html
 
 
+## Practising R
+Practise exercises in R: http://maths-people.anu.edu.au/~johnm/courses/r/exercises/pdf/r-exercises.pdf
+
 ## Using loops in R
 A tutorial on using loops in R: https://www.datacamp.com/community/tutorials/tutorial-on-loops-in-r
 
