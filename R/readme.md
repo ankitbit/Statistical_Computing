@@ -1,9 +1,8 @@
 # Computing in R
 
 ## Introduction to R: 
-###### Cheatsheet for beginning with Base R: https://www.rstudio.com/wp-content/uploads/2016/10/r-cheat-sheet-3.pdf
-###### Check!
-CRAN-Documents for learning R:https://cran.r-project.org/other-docs.html
+* [Cheatsheet for beginning with Base R](https://www.rstudio.com/wp-content/uploads/2016/10/r-cheat-sheet-3.pdf)
+* [CRAN-Documents for learning R](https://cran.r-project.org/other-docs.html)
 
 
 ## Practising R
