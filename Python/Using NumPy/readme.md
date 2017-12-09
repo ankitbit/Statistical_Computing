@@ -11,3 +11,4 @@ However, you should know that, on a structural level, an array is basically noth
 * The **strides** are the number of bytes that should be skipped in memory to go to the next element. If your strides are (10,1), you need to proceed one byte to get to the next column and 10 bytes to locate the next row. **(32, 8)** is an example output.
 
 Or, in other words, an array contains information about the raw data, how to locate an element and how to interpret an element.
+a
