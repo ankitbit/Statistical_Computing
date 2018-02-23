@@ -1,5 +1,6 @@
 # Computing in R
-
+* [Tutorials](https://cran.r-project.org/doc/contrib/)
+* [Lemon kickstart](https://cran.r-project.org/doc/contrib/Lemon-kickstart/)
 ## Introduction to R: 
 * [Cheatsheet for beginning with Base R](https://www.rstudio.com/wp-content/uploads/2016/10/r-cheat-sheet-3.pdf)
 * [CRAN-Documents for learning R](https://cran.r-project.org/other-docs.html)
