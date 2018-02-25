@@ -1,4 +1,6 @@
-# Computing in R
+# Statistical Computing in R
+Stay updated with the latest trends and tutorials on using the R effectively with [Revolution Analytics](http://blog.revolutionanalytics.com/)
+
 * [Tutorials](https://cran.r-project.org/doc/contrib/)
 * [Lemon kickstart](https://cran.r-project.org/doc/contrib/Lemon-kickstart/)
 ## Introduction to R: 
