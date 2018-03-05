@@ -6,7 +6,7 @@ Stay updated with the latest trends and tutorials on using the R effectively wit
 ## Introduction to R: 
 * [Cheatsheet for beginning with Base R](https://www.rstudio.com/wp-content/uploads/2016/10/r-cheat-sheet-3.pdf)
 * [CRAN-Documents for learning R](https://cran.r-project.org/other-docs.html)
-
+* [The Art of R Programming](http://diytranscriptomics.com/Reading/files/The%20Art%20of%20R%20Programming.pdf)
 
 ## Practising R
 Practise exercises in R: http://maths-people.anu.edu.au/~johnm/courses/r/exercises/pdf/r-exercises.pdf
