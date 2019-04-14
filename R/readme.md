@@ -23,6 +23,8 @@ a) Handling Data Frames (i.e. Data Wrangling) with the dplyr ( ) and tidyr ( ) p
 
 b) Tutorial on the R Apply Family:More specifically, the family is made up of the apply( ), lapply( ) , sapply( ), vapply( ), mapply( ), rapply( ), and tapply( ) functions- https://www.datacamp.com/community/tutorials/r-tutorial-apply-family
 
+## Other Academic Resources
+- [Princeton University](https://dss.princeton.edu/training/)
 
 ## Essential Graphics
 a) [Stat Methods](https://www.statmethods.net/graphs/index.html)
