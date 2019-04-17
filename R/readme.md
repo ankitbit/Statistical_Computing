@@ -10,6 +10,7 @@ Stay updated with the latest trends and tutorials on using the R effectively wit
 
 ## Practising R
 Practise exercises in R: http://maths-people.anu.edu.au/~johnm/courses/r/exercises/pdf/r-exercises.pdf
+[http://rcompanion.org/handbook/](http://rcompanion.org/handbook/)
 
 ## Using loops in R
 A tutorial on using loops in R: https://www.datacamp.com/community/tutorials/tutorial-on-loops-in-r
