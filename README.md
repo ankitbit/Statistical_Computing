@@ -12,3 +12,7 @@ a) Archive of Interactive Computing: http://ww2.amstat.org/publications/jse/jse_
 - [Introduction to Statistical Methods: SDS363](https://www.math.arizona.edu/~jwatkins/data363s19s.html)
 - [Statistical Methods and Computation: SDGB 7844](http://www.cs.columbia.edu/~amoretti/7844.html)
 - [MI2 Data Lab Warsaw](http://mi2.mini.pw.edu.pl/)
+
+
+## Applications
+- [Computational Astrophysics](http://www.usm.uni-muenchen.de/people/paech/Astro_Num_Lab/#org5311b0c)
